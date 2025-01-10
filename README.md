@@ -24,12 +24,8 @@ Welcome to CASCADE, a GenAI-driven study companion designed to revolutionize per
 - **Course Dashboard**: Manage your courses and syllabus effortlessly.
 - **Detailed Statistics**: Track your study habits with visual insights.
 
-## License
-This project is licensed under a custom license - see the [LICENSE](https://github.com/ConfusedReal/Cascade-A-GenAI-Study-Companion/blob/main/LICENSE.md) file for details.
-
-
 ## Contact
 For any queries or support, please open an issue on this repository or contact us at dayal700007@gmail.com or saanvisharma004@gmail.com.
 
 ## Thank You
-We hope you enjoy using CASCADE as much as we enjoyed developing it.  Thank you for installing CASCADE! We are excited to be part of your academic journey and help you achieve your goals.
+We are excited to be part of your academic journey and help you achieve your goals.
