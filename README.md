@@ -47,7 +47,7 @@ CASCADE's AI features are currently in pre-production and require access to Goog
 
 ## License
 
-This project is licensed under a custom license - see the [LICENSE](https://github.com/Kaosv2/Cascade-GenAI-Study-Companion/blob/main/LICENSE.md) file for details.
+This project is licensed under a custom license - see the [LICENSE](https://github.com/ConfusedReal/Cascade-A-GenAI-Study-Companion/blob/main/LICENSE.md) file for details.
 
 ## Contact
 
