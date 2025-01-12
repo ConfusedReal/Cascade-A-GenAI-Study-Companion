@@ -1,31 +1,61 @@
 # CASCADE - Your GenAI-Powered Study Companion
 
+[![License](https://img.shields.io/badge/License-Custom-blue.svg)](https://github.com/Kaosv2/Cascade-GenAI-Study-Companion/blob/main/LICENSE.md)
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![PyQt5](https://img.shields.io/badge/PyQt5-GUI-brightgreen.svg)](https://www.riverbankcomputing.com/software/pyqt/)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Gemini%20%7C%20Vertex%20AI-orange.svg)](https://cloud.google.com/)
 
-![](https://github.com/ConfusedReal/Cascade-GenAI-Study-Companion/blob/main/Assets/Frame-43(2).gif).
 
 
-## Introduction
-Welcome to CASCADE, a GenAI-driven study companion designed to revolutionize personalized learning. Created for Passionate learners looking to maximize their studying habits, CASCADE is here to enhance your academic journey by addressing diverse learning styles with a suite of AI tools.
+![](https://github.com/Kaosv2/Cascade-GenAI-Study-Companion/blob/main/Assets/Frame-43(2).gif)
 
-## Gen-AI Powered Features
-- **Adaptive Study Plans** works adjusting to your study schedules, preferences and progress ensuring that every session is optimized for your learning style.
 
-- **Quiz Generation** is like having a personal coach that challenges you with questions tailored to your current knowledge level plus providing you with personal assessment that will help pushing you towards mastery of the subject matter.
+## Elevate Your Skills, Advance Your Career
 
-- **Skills Tracking & Career Roadmap** is your compass in the academic world, guiding you through the skills you need to acquire and aligning them with your future career aspirations.
+CASCADE is a GenAI-powered study companion designed to empower you on your journey from student to professional. We go beyond traditional study tools by providing a personalized learning experience that bridges the gap between academic knowledge and real-world career success.  Using cutting-edge AI, including Google Cloud's Gemini and Vertex AI, CASCADE helps you identify your skill gaps, master in-demand knowledge, and chart a clear path toward your dream job.
 
-## Features
-- **GenAI Chatbot**: Get instant help and answers to your queries.
-- **Customizable Timers**: Focus on your studies with tailored timers.
-- **Dynamic Study Planner**: Personalized study plans based on your unique learning style.
-- **To-Do List & Notes**: Stay organized and keep track of tasks and notes.
-- **Music Player**: Enjoy your favorite study music.
-- **Flashcards & Quizzes**: Reinforce your learning with personalized quizzes.
-- **Course Dashboard**: Manage your courses and syllabus effortlessly.
-- **Detailed Statistics**: Track your study habits with visual insights.
+
+## Key Features: Upskilling & Career Progression
+
+* **AI-Powered Personalized Learning Paths:** CASCADE analyzes your current skills, career aspirations, and chosen courses to create a tailored learning journey.  Dynamic study plans adapt to your progress, ensuring you focus on areas needing improvement.
+* **Targeted Skill-Building Activities:**  Access quizzes, exercises, and resources specifically designed to enhance the skills you need for your chosen career path.  Receive actionable feedback and personalized recommendations to maximize your learning efficiency.
+* **Interactive Career Roadmap:** Visualize your career journey with clear milestones and skill requirements.  Explore interim job opportunities aligned with your growing skillset as you progress toward your ultimate career goal.
+* **Dynamic Quiz Generation:**  Test your understanding with AI-generated quizzes that adapt to your skill level. Receive in-depth feedback to reinforce your learning and identify areas for further development.
+
+
+## Additional Features for a Holistic Study Experience
+
+* **GenAI Chatbot:** Get instant support and answers to your academic questions.
+* **Customizable Timers & Study Planner:**  Optimize your study sessions with focused timers and personalized study plans.
+* **Organized Notes & To-Do Lists:** Stay on track with integrated note-taking and task management tools.
+* **Integrated Music Player:** Create a productive study environment with your favorite music.
+* **Interactive Flashcards:** Reinforce key concepts and vocabulary with engaging flashcards.
+* **Course Dashboard & Detailed Statistics:** Manage your courses and track your study habits with insightful visualizations.
+
+
+
+## Installation
+
+1. **Download:** Download the latest setup file from the [Releases](https://github.com/Kaosv2/Cascade-GenAI-Study-Companion/releases) page.
+2. **Install Dependencies:** The installer will prompt you to automatically download and install dependencies, including the Google Cloud SDK CLI. Choose "Yes" to streamline the process.
+3. **Manual Dependency Installation (if needed):** If you chose not to install dependencies automatically or encounter issues, follow these steps:
+    * Run the `install_dependencies.bat` script: [link](https://github.com/Kaosv2/Cascade-GenAI-Study-Companion/blob/main/install_dependencies.bat)
+    * Install Google Cloud SDK (if not already installed): [link](https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe). After installation, authenticate using: `gcloud auth login`
+4. **Run CASCADE:** After installation, run CASCADE as administrator. Ensure your system's display scaling is set to 125% for optimal rendering.
+
+## Google Gemini/Vertex AI Access
+
+CASCADE's AI features are currently in pre-production and require access to Google Gemini/Vertex AI. To be added to the list of test users, please send your email address to ghdwinner@gmail.com. You will need to log in to the Google Cloud SDK with this email address.
+
+## License
+
+This project is licensed under a custom license - see the [LICENSE](https://github.com/Kaosv2/Cascade-GenAI-Study-Companion/blob/main/LICENSE.md) file for details.
 
 ## Contact
-For any queries or support, please open an issue on this repository or contact us at dayal700007@gmail.com or saanvisharma004@gmail.com.
 
-## Thank You
-We are excited to be part of your academic journey and help you achieve your goals.
+Created by [Harsh Dayal](https://github.com/KaosV2) and [Saanvi Sharma](https://github.com/ConfusedReal).
+
+For questions or support, please open an issue on this repository or contact us at:
+
+* ghdwinner@gmail.com
+* saanvisharma004@gmail.com 
